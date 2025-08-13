@@ -15,7 +15,6 @@ Follow these steps to get started with Money Senda App:
 
 1️⃣ Clone the repository
 
-```bash
 git clone https://github.com/yourusername/money-senda-app.git
 cd money-senda-app
 ````

@@ -6,7 +6,7 @@ import os
 api_key = os.environ.get("f9b3a2d7-6c1e-4f8a-b2d4-1e7c9a5f0b8d
 ")
 if not api_key:
-    raise ValueError("OPENAI_API_KEY secret is not set")
+    raise ValueError("f9b3a2d7-6c1e-4f8a-b2d4-1e7c9a5f0b8d")
 openai.api_key = api_key
 
 model_engine = "text-davinci-003"
